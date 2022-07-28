@@ -1,14 +1,25 @@
 .slide-hero {
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .orange-bg {
     background-color: #FEEAE9;
-    padding: 0 48px;
+    padding: 48px;
 }
 
 .btn-bg {
+    border: none;
+    padding: 12px 24px;
     color: white;
     background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
     border-radius: 6px;
+}
+
+.slide-hero h1 {
+    font-size: 56px;
+    font-weight: 800;
+}
+
+.pricing-color {
+    color: #FF136F;
 }
